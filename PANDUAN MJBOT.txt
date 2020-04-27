@@ -1,0 +1,136 @@
+###### FITUR MJBOT#####
+KATA-KATA bisa diganti menggunakan fitur nomor 7 maupun nomor 8
+
+
+
+Tanya & Jawab
+*diawali dengan kata "apa", "apakah", "nama panggilan mjbot", "woy", "sayang" dan diakhiri dengan tanda tanya "?" *tanpa tanda kutip
+cth:
+	- apa aku ganteng ?
+	- apakah dia galau ?
+	- cing kok kucing ?
+	- woy ini kenapa ?
+
+Umum
+	- cing
+	  (memanggil mjbot)
+	- cing bangun
+	  (manajer otomatis aktif)
+	- cing tidur
+	  (manajer otomatis nonaktif)
+	- cing nurut
+	  (mj bothanya akan menerima perintah dari DJ & MJ)
+	- cing bebas
+	  (mj bot akan menerima perintah dari semua listeners)
+	- cing
+	  (memanggil mjbot)
+	- cing keluar
+	  (mjbot keluar dari room, namun mjbot harus aktif dalam mode "cing nurut")
+
+Rank
+	* Cek Rank
+	- /rank
+	  (update rank live)
+	- /rank 1
+	  (cek rank 1 live)
+        - /rank 89
+          (cek rank 89 live)
+	
+Fitur wajib memakai perintah (/rank) terlebih dahulu agar works
+	* Masukin bot via rank
+	- /uprank 3
+	  (memasukkan bot di rank 3)
+	- /uprank 17
+	  (memasukkan bot di rank 17
+
+	* Menarik bot via rank (kalau tokennya sama bisa ketarik)
+	- /tarikrank 6
+	  (menarik bot di rank 6)
+	- /tarikrank 17
+	  (menarik bot di rank 17)
+
+	* Mereport room via rank 
+	- /reportrank 6
+	  (mereport room rank 6)
+
+
+Fitur (/uprank),(/tarikrank) untuk room yang terdapat mjbot didalamnya
+	* up room sendiri
+	- /uprank ini
+
+	* tarik bot di room sendiri
+	- /tarikrank ini
+
+
+
+Menyetop dan mengaktifkan fitur (/uprank),(/tarikrank), dan (/reportrank)
+
+	*STOP fitur (/uprank),(/tarikrank), dan (/reportrank) ketika masih proses
+	- /stop
+
+	*mengaktifkan fitur (/uprank),(/tarikrank), dan (/reportrank) setelah memanggil fitur /stop
+	- /on
+
+
+Tambahan
+	* Cek Profile Akun
+	- /me
+	  (cek akun sendiri)
+	- /cek nickname
+	  (cek sesuai dengan nickname akun)
+	- /cek id akun
+	  (cek sesuai dengan id akun tanpa @)
+	* Cek Instagram
+	- /ig IDinstagram
+	  (cek cek sesuai id instagram tanpa @)
+        * Cek durasi live
+        - /durasi
+	* Cek durasi call
+	- /call
+	* cek zodiak
+	- /zodiak taurus
+	  (cek zodiak taurus)
+	* cek tingkat kecocokan pasangan	
+	- /jodoh angga ainun
+	
+Fitur lacak (yang di lacak harus chat di room yang sama)
+
+	- /lacak IDyangdilacak
+	  (tanpa menggunakan @)
+
+calculator 
+	- == (matematika)
+	contoh:
+	== 2+4+5
+
+	== 1*2+3/4*5
+
+
+
+Ngelist lagu
+     	* Nambah lagu di list (maksimal 4 lagu di list)
+     	- /add gantung melly goeslow
+     	  (Menambahkan lagu gantung melly goeslow di list)
+
+
+     	* Menghapus isi list lagu (semuanya) (harus cing nurut terlebih dahulu)
+     	- /reset
+
+
+Mengeluarkan mjbot (harus cing nurut terlebih dahulu)
+     	- cing keluar
+
+Tambahan yang bisa diedit sesuai kreatifitas 
+     	* cing desah 
+	* cing nikah
+    	* c
+	* d
+	* e
+	* f
+	* g 
+	* h
+	* i
+	* j
+    	* Assalamualaikum
+    	  (Respon back Waalaikumsalam.wr.wb)
+    	
